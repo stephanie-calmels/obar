@@ -5,3 +5,4 @@
 020-menu_view 2022-01-10T09:09:56Z stephanie,,, <stephanie@stephanie-ubuntu> # Vue pour afficher la carte
 030-ingredient_purchase 2022-01-10T12:49:48Z stephanie,,, <stephanie@stephanie-ubuntu> # Fonction pour l'achat d'ingredients
 040-drink_soft_delete 2022-01-10T13:12:32Z stephanie,,, <stephanie@stephanie-ubuntu> # Soft Delete sur les boissons
+050-drink_sale 2022-01-10T13:34:31Z stephanie,,, <stephanie@stephanie-ubuntu> # Fonction pour la vente d'une boisson
