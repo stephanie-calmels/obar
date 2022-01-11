@@ -7,3 +7,4 @@
 040-drink_soft_delete 2022-01-10T13:12:32Z stephanie,,, <stephanie@stephanie-ubuntu> # Soft Delete sur les boissons
 050-drink_sale 2022-01-10T13:34:31Z stephanie,,, <stephanie@stephanie-ubuntu> # Fonction pour la vente d'une boisson
 060-ingredients_stock_view 2022-01-10T14:12:07Z stephanie,,, <stephanie@stephanie-ubuntu> # Vue affichant la quantité en stock pour chaque ingrédient
+070-cash_balance 2022-01-11T07:54:32Z stephanie,,, <stephanie@stephanie-ubuntu> # Vue pour le solde de caisse quotidien
